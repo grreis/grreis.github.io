@@ -1,4 +1,4 @@
-Welcome to the Drinkers of Infinity blog. This space straddles global macro, financial markets, data science and the arts
+Welcome to Drinkers of Infinity! This blog straddles global macro, financial markets, data science and the arts
 
 ## Drinkers of Infinity
 
